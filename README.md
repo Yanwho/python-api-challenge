@@ -11,4 +11,3 @@ Using OpenWeatherMap API, Google Maps API, MapBox, and plotly, I searched for an
 Enjoy!<br></br>
 -Ed
 <br></br>
-Deployed via GitHub Pages @ https://yanwho.github.io/python-api-challenge/.
