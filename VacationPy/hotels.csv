@@ -1,12 +1,21 @@
-,City,Latitude,Longitude,Hotel Name
-45,Mataura,-46.1927,168.8643,Ellie's Villa
-143,Arang,21.2,81.9667,Hotel Kunwar Shree
-179,Makkah al Mukarramah,21.4267,39.8261,"Makkah Clock Royal Tower, A Fairmont Hotel"
-239,Salalah,17.0151,54.0924,HAMDAN PLAZA HOTEL
-258,Manohar Thāna,24.24,76.8018,GEETA SADAN
-286,Māngrol,21.1167,70.1167,Hotel The Royal Honours
-414,Flinders,-34.5833,150.8552,Shellharbour Resort & Conference Centre
-540,Haimen,23.1935,116.6142,Jinghao Business Hotel
-551,Dhamtari,20.7072,81.5497,shimon inn
-596,Kiama,-34.6833,150.8667,The Sebel Kiama Harbourside
-664,Sur,22.5667,59.5289,Sur Plaza Hotel
+,Unnamed: 0,City,ID,Latitude,Longitude,Max Temp,Humidity,Wind Speed,Cloudiness,Hotel Name
+17,17,Luanda,2240449,-8.8368,13.2343,77.0,78,6.91,0,EPIC SANA Luanda
+36,36,Caravelas,3466980,-17.7125,-39.2481,79.2,73,8.12,0,Pousada dos Navegantes
+70,70,Morro Bay,5374920,35.3658,-120.8499,71.01,38,1.01,0,Inn at Morro Bay
+75,75,Guerrero Negro,4021858,27.9769,-114.0611,77.11,20,4.7,0,"Casa Laguna, Bed & Breakfast"
+81,81,Aden,415189,12.7794,45.0367,76.73,73,6.26,0,Sama Emirate Hotel
+115,115,Ratnagiri,1258338,16.9833,73.3,77.72,66,4.79,0,Hotel Landmark
+186,186,Geraldton,2070998,-28.7667,114.6,75.2,69,1.14,0,Broadwater Mariner Resort
+199,199,Castaños,4015022,26.7833,-101.4167,76.21,18,3.98,0,Bomberos voluntarios castaños coahuila
+220,220,Pisco,3932145,-13.7,-76.2167,73.4,73,6.91,0,Hotel San Isidro Oficial
+270,270,Gayéri,2360541,12.6497,0.4931,74.34,19,8.21,0,
+277,277,Koindu,2409751,8.4386,-10.3253,71.47,34,1.99,0,
+365,365,Valença,3445597,-13.3703,-39.0731,75.85,79,4.88,0,Hotel Galeão
+390,390,Sawtell,2150163,-30.3833,153.1,75.2,64,3.44,0,Island Beach House Sawtell
+450,450,Port Macquarie,2152659,-31.4333,152.9167,73.0,63,1.99,0,Rydges Port Macquarie
+501,501,Necochea,3430443,-38.5473,-58.7368,78.01,56,7.43,0,dyd -mar Hotel
+512,512,Vera Cruz,3445307,-12.6333,-41.0333,77.0,73,5.75,0,
+527,527,Kédougou,2250645,12.5579,-12.1743,78.19,16,3.83,0,Relais de Kédougou
+544,544,Yenagoa,2318123,4.9247,6.2642,78.58,85,5.61,0,Aridolf Resort Wellness and Spa
+551,551,Warri,2319133,5.5167,5.75,79.66,82,6.76,0,BON Hotel Delta
+556,556,Rocha,3440777,-34.4833,-54.3333,70.75,55,8.88,0,Beleza Pura B&B
