@@ -1,11 +1,20 @@
-,Unnamed: 0,City,ID,Latitude,Longitude,Max Temp,Humidity,Wind Speed,Cloudiness,Hotel Name
-137,137,Cachoeira,3468535,-12.6183,-38.9558,74.14,75,6.82,0,Cachoeira Apart Hotel
-143,143,Saucillo,3983312,28.0167,-105.2833,79.14,15,8.52,0,Hotel La Posada de San Judas Tadeo
-350,350,Gaoua,2577162,10.2992,-3.2508,76.68,18,4.34,0,
-426,426,Diapaga,2361373,12.0708,1.7889,73.49,20,7.43,0,
-470,470,Necochea,3430443,-38.5473,-58.7368,73.99,65,6.76,0,dyd -mar Hotel
-530,530,Guerrero Negro,4021858,27.9769,-114.0611,76.28,22,9.89,0,"Casa Laguna, Bed & Breakfast"
-552,552,Departamento de Maldonado,3441890,-34.6667,-54.9167,73.4,64,6.91,0,La Cimarrona
-565,565,Alice Springs,2077895,-23.7,133.8833,77.0,37,4.61,0,Desert Palms Alice Springs
-602,602,Ouahigouya,2357043,13.5828,-2.4216,75.42,18,9.37,0,Hotel Liberte
-639,639,Bosobolo,2316473,4.1833,19.9,75.33,40,1.72,0,
+,Unnamed: 0,City,Country,ID,Latitude,Longitude,Max Temp,Humidity,Wind Speed,Cloudiness,Hotel Name
+2,2,Pisco,PE,3932145,-13.7,-76.2167,75.2,73,5.75,0,Hotel San Isidro Oficial
+8,8,Entre Rios,BR,3464100,-11.9419,-38.0844,72.07,82,5.19,0,Jambalaya Pousada
+18,18,Malakal,SS,370737,9.5334,31.6605,79.03,24,7.61,0,Nile Palace Hotel
+95,95,Filingué,NE,2444995,14.3521,3.3168,73.51,20,8.84,0,
+129,129,Alice Springs,AU,2077895,-23.7,133.8833,77.0,28,8.05,0,Desert Palms Alice Springs
+188,188,Bandiagara,ML,2460489,14.3501,-3.6104,75.2,33,4.61,0,Hotel de la Falaise
+200,200,Am Timan,TD,245338,11.0297,20.2827,72.1,21,5.23,0,Palais du chef Canton Salamt
+258,258,Caborca,MX,3996893,30.5838,-111.101,79.0,12,7.0,0,Hotel Los Lagos
+319,319,Minas,UY,3441665,-34.3759,-55.2377,73.4,64,5.75,0,Hotel Minas
+334,334,Caravelas,BR,3466980,-17.7125,-39.2481,77.2,78,7.05,0,Pousada dos Navegantes
+339,339,Bougouni,ML,2459775,11.417,-7.479,74.39,18,5.17,0,Non Stop
+341,341,Geraldton,AU,2070998,-28.7667,114.6,75.2,73,3.85,0,Broadwater Mariner Resort
+387,387,Bondoukou,CI,2291136,8.0333,-2.8,79.3,17,2.24,0,Prestige Hotel
+407,407,Edd,ER,338345,13.9297,41.6925,73.58,80,5.14,0,
+409,409,Doba,TD,2433437,8.65,16.85,75.4,19,5.61,0,Restaurant Auberge La Pétrolière
+451,451,Tres Arroyos,AR,3833859,-38.3739,-60.2798,78.82,40,8.28,0,Habitacion Triple con baño y entrada privada
+501,501,Duekoué,CI,2289549,6.7472,-7.3496,75.13,49,2.51,0,L'Etoile
+531,531,Tolaga Bay,NZ,2180991,-38.3667,178.3,72.1,51,8.84,0,Tolaga Bay Motel
+535,535,Guerrero Negro,MX,4021858,27.9769,-114.0611,76.6,21,8.77,0,"Casa Laguna, Bed & Breakfast"
